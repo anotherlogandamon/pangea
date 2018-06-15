@@ -48,7 +48,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "P A N G E A",
+          "title": "<span style=\"font-weight: normal;\">P A N G E A</span>",
           "text": "Animation + Site Design by Logan Damon",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRE-ORDER</a> ",
           "_tags": [
